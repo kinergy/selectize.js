@@ -6,8 +6,8 @@
 	"license": "Apache License, Version 2.0",
 	"readmeFilename": "README.md",
 	"repository": {
-		"type": "git",
-		"url": "git://github.com/brianreavis/selectize.js.git"
+		"type": "https",
+		"url": "https://github.com/kinergy/selectize.js.git"
 	},
 	"main": [
 		"dist/css/selectize.css",
